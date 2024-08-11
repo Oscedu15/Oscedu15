@@ -75,8 +75,9 @@
   <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
 </a>
 &emsp;
-<a href="https://wa.me//+584244982754 target="_blank" rel="noopener"">
+<a href="https://wa.me//+584244982754" target="_blank" rel="noopener"">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
 </a>
+&emsp;
 <br />
 <br />
