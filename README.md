@@ -30,6 +30,12 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="netlify logo" title="netlify" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="visual studio logo" title="vs" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white" alt="axios studio logo" title="axios" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="github studio logo" title="github" height="25" /></span>
+&nbsp;
 
   <img align="center" alt="Schleidens" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
   
