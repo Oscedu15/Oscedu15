@@ -1,7 +1,7 @@
-# Hola 👋 Mi nombre eso Oscar Garcia
+# Hola 👋 Mi nombre es Oscar Garcia
 
 
-**Entusiasta desarrollador Front-End jr** 
+**Entusiasta desarrollador Front-End Jr** 
 <br>
 <br>
 <img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -21,22 +21,22 @@
   </b>
   </p>
 
-- 🔭 I’m currently Hacking with ReactJs/NodeJs/Express/TS
-- 🌱 I’m currently learning ReactJS && Node/express && TS
+- 🔭 Actualmente estoy trabajando con ReactJs/Nextjs/Vite/Tailwind/Framer-Motion
+- 🌱 Actualmente estoy aprendiendo Zod/Typescript/Redux
 
 <br>
 
 ## Contactame 😊
-<a href="https://twitter.com/Oscedu1592">
+<a href="https://twitter.com/Oscedu1592" target="_blank" rel="noopener noreferrer>
 <img src="https://img.shields.io/twitter/follow/Schleidens_dev?color=blue&label=follow&logo=twitter&logoColor=white&style=for-the-badge" />
 </a>
-<a href="https://instagram.com/osceduar15">
+<a href="https://instagram.com/osceduar15" target="_blank" rel="noopener noreferrer>
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/oscar-eduardo-garc%C3%ADa-leon-a15a14195/">
+<a href="https://www.linkedin.com/in/oscar-eduardo-garc%C3%ADa-leon-a15a14195/" target="_blank" rel="noopener noreferrer>
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://discord.gg/oscedu15">
+<a href="https://discord.gg/oscedu15" target="_blank" rel="noopener noreferrer>
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 <br />
@@ -44,7 +44,7 @@
 
 ## StreakStats 🚀
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Schleidens&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Schleidens&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D)](github.com/Oscedu15)
 
 
 -----
