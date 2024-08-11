@@ -13,12 +13,11 @@
   ## Sobre Mi &#128513;
   <p>
   <b>
-  I am Schleidens a lover of technology &#128525; passionate about front end development, I work on my projects with Vue/Nuxt a front framework that I really like.
-  I'm currently learning reactjs and nodejs (wooaaahh fullstack JS &#128526;).
-  i like to learn new technology and update myself. i also like to contribute in open sources projects
+  Soy Oscar García, entusiasta de la tecnología &#128525; Apasionado por el desarrollo Front-End, trabajo en mis proyectos con React/Vite/Nextjs un framework que me gusta mucho.
+  Actualmente estoy aprendiendo Zod y Typescript (&#128526;).
+  Me gusta aprender nuevas tecnologías y actualizarme.
 
-
-  working with you is already a pleasure for me &#128519;
+  Poder trabajar contigo ya es un placer para mi &#128519;
   </b>
   </p>
 
@@ -27,26 +26,19 @@
 
 <br>
 
-## Keep in touch with me 😊
-<a href="https://twitter.com/schleidens_dev">
+## Contactame 😊
+<a href="https://twitter.com/Oscedu1592">
 <img src="https://img.shields.io/twitter/follow/Schleidens_dev?color=blue&label=follow&logo=twitter&logoColor=white&style=for-the-badge" />
 </a>
-<a href="https://instagram.com/schleidens.dev">
+<a href="https://instagram.com/osceduar15">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/alectineschleidens">
+<a href="https://www.linkedin.com/in/oscar-eduardo-garc%C3%ADa-leon-a15a14195/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://facebook.com/elhermano.dejesus">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-<a href="https://dev.to/schleidens">
-<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
-</a>
-<a href="https://discord.gg/fAuyjtSR">
+<a href="https://discord.gg/oscedu15">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
-
 <br />
 <br />
 
