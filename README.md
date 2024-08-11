@@ -35,7 +35,6 @@
 <span><img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white" alt="axios studio logo" title="axios" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="github studio logo" title="github" height="25" /></span>
-&nbsp;
 
   <img align="center" alt="Schleidens" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
   
