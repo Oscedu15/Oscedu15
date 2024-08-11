@@ -50,7 +50,7 @@
   </p>
 
 - 🔭 Actualmente estoy trabajando con ReactJs/Nextjs/Vite/Tailwind/Framer-Motion
-- 🌱 Actualmente estoy aprendiendo Zod/Typescript/Redux
+- 🌱 Actualmente estoy aprendiendo Zod/Typescript/GSAP
 
 <br>
 
@@ -74,6 +74,9 @@
 <a target="_blank" href="mailto:oscaregarcialeon@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
 </a>
-
+&emsp;
+<a href="https://wa.me//+584244982754 target="_blank" rel="noopener"">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
+</a>
 <br />
 <br />
